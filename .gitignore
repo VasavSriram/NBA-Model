@@ -1,0 +1,33 @@
+# Environment variables
+.env
+*.env
+
+# Database files (auto-generated, not needed in repo)
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated output files
+data/
+*.csv
+ev_report_*.md
+gameday_report_*.txt
+team_history_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
